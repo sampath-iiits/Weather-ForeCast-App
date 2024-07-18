@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather-ForeCast-App/static/css/main.cefb6f39.css",
+    "main.js": "/Weather-ForeCast-App/static/js/main.0f3e411b.js",
+    "static/media/cold.jpg": "/Weather-ForeCast-App/static/media/cold.eb0f82b0000186002ea1.jpg",
+    "static/media/hot.jpg": "/Weather-ForeCast-App/static/media/hot.7673e3111ad878d2b89f.jpg",
+    "index.html": "/Weather-ForeCast-App/index.html",
+    "main.cefb6f39.css.map": "/Weather-ForeCast-App/static/css/main.cefb6f39.css.map",
+    "main.0f3e411b.js.map": "/Weather-ForeCast-App/static/js/main.0f3e411b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cefb6f39.css",
+    "static/js/main.0f3e411b.js"
+  ]
+}
